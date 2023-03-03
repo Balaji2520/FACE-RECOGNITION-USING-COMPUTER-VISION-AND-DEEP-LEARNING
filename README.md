@@ -1,1 +1,4 @@
 # FACE-RECOGNITION-USING-COMPUTER-VISION-AND-DEEP-LEARNING
+
+
+In this Project, OpenFace was examined in relation to face verification, recognition and clustering tasks on still imagesbased on multiple datasets. Its performance was verified on the LFW benchmark datasets. The runtime of the modelsdepended on multiple factors: namely, the number of model parameters, the quality of the machine, and the size andquality of the dataset. Using training datasets balanced in terms of age and racial diversity is an example of suchretraining. The effect of the quality of the query images on the efficiency of OpenFace was apparent. Therefore,OpenFace is inadequate in its current state for use in forensics applications owing to the low quality of images acquiredfrom closed-circuit television (CCTV)—a major source of images used in the area. For better quality images, the systemworks well and can be considered a complementary tool in forensic examination.
